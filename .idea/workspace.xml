@@ -15,22 +15,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Carl-Ash"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Carl-Ash&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Carl-Ash/Intermediate-training.git",
-    "accountId": "b2857e72-cf44-4786-b02f-807770bb3f10"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Carl-Ash/Intermediate-training.git&quot;,
+    &quot;accountId&quot;: &quot;b2857e72-cf44-4786-b02f-807770bb3f10&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="370qsE6FfASiAZ9qHUVjQoHdSmL" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -41,6 +41,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -71,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1766050541595</updated>
       <workItem from="1766050544148" duration="156000" />
+      <workItem from="1766050801704" duration="419000" />
     </task>
     <task id="LOCAL-00001" summary="backend">
       <option name="closed" value="true" />
